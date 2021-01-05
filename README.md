@@ -5,3 +5,6 @@ In computer science, a data structure is a data organization, management, and st
   * Singly Linked List
   * Doubly Linked List
   * Circularly Singly Linked List
+  * Circularly Doubly Linked List
+  
+* Stack
