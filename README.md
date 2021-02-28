@@ -11,7 +11,7 @@ In computer science, a data structure is a data organization, management, and st
   ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2014/03/DLL1.png)
   
   * Circularly Singly Linked List
-  ![](https://media.geeksforgeeks.org/wp-content/uploads/CircularLinkeList.png)
+  ![](https://csharpcorner.azureedge.net/article/circular-singly-linked-list-in-c-sharp/Images/Circular_LL.png)
   
   * Circularly Doubly Linked List
   ![](https://media.geeksforgeeks.org/wp-content/uploads/Circular-doubly-linked-list.png)
